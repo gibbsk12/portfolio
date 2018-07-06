@@ -1,6 +1,6 @@
 # Portfolio
 
-Welcome to my portfolio page. I am a current student at the University of Richmond full-stack bootcamp. This page was built with a template from [Start Bootstrap](https://startbootstrap.com/).
+Welcome to my portfolio page. I am a current student at the University of Richmond full-stack bootcamp. 
 
 Click to view my portfolio: https://gibbsk12.github.io/portfolio/
 
