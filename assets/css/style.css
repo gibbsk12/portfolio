@@ -5,6 +5,7 @@ html {
 }
 body {
   font-family: 'News Cycle', sans-serif;
+  font-size: 1.5rem
 }
 /* The horizontal breaks */
 hr {
@@ -125,6 +126,10 @@ section {
   #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:focus:hover {
     color: #f87456;
   }
+}
+
+#mastheadText{
+  font-size: 2rem;
 }
 
 header.masthead {
